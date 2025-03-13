@@ -1,9 +1,8 @@
-Hi, I’m Elie Celnikier, 
-I’m working at the crossroads of Neuroscience and Machine Learning. 
-I love working with signals and particularly human based signals.
-Currently Machine Learning Engineer at Evolution Devices, I am applying my machine learning skills to understand how people walk and help improving their mobility.
+I’m Elie Celnikier, Head of AI at Evolution Devices, specializing in machine learning applications for decoding and interpreting biosignals (EEG, ECG, IMU). My work focuses on developing algorithms to understand human gait patterns, improving patient mobility and quality of life.
 
-📫 Feel free to reach me at elie.celnikier@gmail.com
+My expertise bridges Neuroscience, Biosignal Analysis, and Artificial Intelligence.
+
+📫 Contact: elie.celnikier@gmail.com
 
 <!---
 elieclnk/elieclnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
